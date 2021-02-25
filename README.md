@@ -1,2 +1,5 @@
-# ola-Mundo
- curso git
+# olá, Mundo!
+
+Repositorio do curso.
+
+ 
